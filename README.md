@@ -21,3 +21,20 @@ Thorough examination of the performance of top-selling products against sales ta
 ### Geographic Performance Map:
 
 An interactive map visualization has been developed, showcasing the performance metrics of retail outlets in different regions. This visual aid offers insights into geographic trends and opportunities.
+
+## Tasks Accomplished During the Project:
+
+1. Importing the Data into Power BI:
+   - Loaded/Imported and transformed the following Tables:
+     - Orders
+     - Products
+     - Stores
+     - Customers
+   - Used the following tools and features to clean/transform the data:
+     -  Split Column Feature
+     -  Removing missing/null values
+     -  Renaming Columns
+     -  Deleting Columns
+     -  Column from Examples Feature
+     -  Replacing Values
+     -  Created new Calculated Columns
