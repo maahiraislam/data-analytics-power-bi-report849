@@ -35,6 +35,7 @@ An interactive map visualization has been developed, showcasing the performance 
      -  Removing missing/null values
      -  Renaming Columns
      -  Deleting Columns
+     -  Merged Columns
      -  Column from Examples Feature
      -  Replacing Values
      -  Created new Calculated Columns
