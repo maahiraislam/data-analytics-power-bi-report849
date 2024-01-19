@@ -39,3 +39,5 @@ An interactive map visualization has been developed, showcasing the performance 
      -  Column from Examples Feature
      -  Replacing Values
      -  Created new Calculated Columns
+2. Creating the Data Model:
+   - 
