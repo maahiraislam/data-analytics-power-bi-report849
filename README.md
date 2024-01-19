@@ -40,20 +40,20 @@ An interactive map visualization has been developed, showcasing the performance 
      -  Replacing Values
      -  Created new Calculated Columns
  2. Creating the Data Model:
-   - In this analysis, a comprehensive date table was established in Power BI using DAX formulas to enhance time-based analytics:
-      - This table, named "Dates" covers the earliest date in the Orders['Order Date'] to the latest in Orders['Shipping Date']. It's a handy tool for time-based analysis in our reports.
-      - Added some key date-related info to make our analysis even more insightful. The "Day Of Week" column tells us the day of the week, "Month Number" gives the month in a number format, and "MonthName" tells us the full month name. "Quarter" helps us analyze data by quarters, and "Year" simply shows the year.
-      - Also included columns for specific reference points in time. "Start Of Year" shows the beginning of each year, "Start Of Quarter" marks the start of each quarter, and "Start Of Month" pinpoints the start of each month. Lastly, "Start Of Week" gives a reference point at the beginning of each week.
-      - This straightforward date table is like a time compass for our Power BI model, making it easier to explore and analyze data trends over time. These added date-related details makes the report more meaningful and user-friendly for everyone involved.
-      - These DAX functions were used to create a date table and add various date-related columns to facilitate time-based analysis in the Power BI model:
-         - ADDCOLUMNS
-         - CALENDER
-         - MIN
-         - MAX
-         - FORMAT
-         - YEAR
-         - QUARTER
-         - MONTH
-         - WEEKDAY
-         - DATE
-
+      - In this analysis, a comprehensive date table was established in Power BI using DAX formulas to enhance time-based analytics:
+         - This table, named "Dates" covers the earliest date in the Orders['Order Date'] to the latest in Orders['Shipping Date']. It's a handy tool for time-based analysis in our reports.
+         - Added some key date-related info to make our analysis even more insightful. The "Day Of Week" column tells us the day of the week, "Month Number" gives the month in a number format, and "MonthName" tells us the full month name. "Quarter" helps us analyze data by quarters, and "Year" simply shows the year.
+         - Also included columns for specific reference points in time. "Start Of Year" shows the beginning of each year, "Start Of Quarter" marks the start of each quarter, and "Start Of Month" pinpoints the start of each month. Lastly, "Start Of Week" gives a reference point at the beginning of each week.
+         - This straightforward date table is like a time compass for our Power BI model, making it easier to explore and analyze data trends over time. These added date-related details makes the report more meaningful and user-friendly for everyone involved.
+         - These DAX functions were used to create a date table and add various date-related columns to facilitate time-based analysis in the Power BI model:
+            - ADDCOLUMNS
+            - CALENDER
+            - MIN
+            - MAX
+            - FORMAT
+            - YEAR
+            - QUARTER
+            - MONTH
+            - WEEKDAY
+            - DATE
+   
