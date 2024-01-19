@@ -57,4 +57,7 @@ An interactive map visualization has been developed, showcasing the performance 
             - MONTH
             - WEEKDAY
             - DATE
+      - Established relationships between different tables to create a star schema in the Power BI model. The connections are as follows:
+        ![image](https://github.com/maahiraislam/data-analytics-power-bi-report849/assets/148975841/04276fae-b1c3-4e17-966a-97c3a6e4dd13)
+
    
