@@ -59,5 +59,12 @@ An interactive map visualization has been developed, showcasing the performance 
             - DATE
       - Established relationships between different tables to create a star schema in the Power BI model. The connections are as follows:
         ![image](https://github.com/maahiraislam/data-analytics-power-bi-report849/assets/148975841/04276fae-b1c3-4e17-966a-97c3a6e4dd13)
+      - Have created a set of key measures that will serve as a starting point in building the report. The following DAX functions were used to create key measures and calculated columns:
+
+        - DISTINCTCOUNT
+        - TOTALYTD
+        - COUNTROWS
+        - SUMX
+        - RELATED
 
    
