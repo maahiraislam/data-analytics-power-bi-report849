@@ -66,5 +66,17 @@ An interactive map visualization has been developed, showcasing the performance 
         - COUNTROWS
         - SUMX
         - RELATED
+    3. Building the Customer Detail Page:
+      - Created a report page focusing on customer level analysis. The following visuals were created:
+         - **Card visuals** for total distinct customers and revenue per customer
+         - **Line chart** of weekly distinct customers
+         - **Table** showing the top 20 customers by total revenue, showing the revenu per customer and the total orders for each customer
+         - **Donut chart** showing number of customers by country
+         - **Bar chart** showing number of customers by product category
+         - **Three card visuals** showing the name, number of orders, and revenue for the top customer by revenue.
+         - **Data Slicer**
+         - The final layout is given as follows:
+           ![image](https://github.com/maahiraislam/data-analytics-power-bi-report849/assets/148975841/df444112-25ec-4061-8944-c993d61d5017)
+
 
    
