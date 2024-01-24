@@ -66,7 +66,7 @@ An interactive map visualization has been developed, showcasing the performance 
         - COUNTROWS
         - SUMX
         - RELATED
-    3. Building the Customer Detail Page:
+   3. Building the Customer Detail Page:
       - Created a report page focusing on customer level analysis. The following visuals were created:
          - **Card visuals** for total distinct customers and revenue per customer
          - **Line chart** of weekly distinct customers
