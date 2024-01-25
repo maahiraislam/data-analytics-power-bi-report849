@@ -85,6 +85,7 @@ An interactive map visualization has been developed, showcasing the performance 
       - KPI's for Quarterly revenue, customers and profit
       - Table of the top 10 products
       - The final layout is given as follows:
-        
+        ![image](https://github.com/maahiraislam/data-analytics-power-bi-report849/assets/148975841/c5365ea0-a8f5-4a0b-adf1-045ad8fa5c0e)
+
 
    
