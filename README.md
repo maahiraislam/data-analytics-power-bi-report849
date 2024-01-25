@@ -86,6 +86,15 @@ An interactive map visualization has been developed, showcasing the performance 
       - Table of the top 10 products
       - The final layout is given as follows:
         ![image](https://github.com/maahiraislam/data-analytics-power-bi-report849/assets/148975841/c5365ea0-a8f5-4a0b-adf1-045ad8fa5c0e)
+   5. Created a product detail page that provides insights for all products and regions combined. Provides an in-depth look at which prodcuts within the inventory are performing well, with the option to filter by product and region. The following visuals were created:
+      - **Card visuals** to show which filters are curently selected.
+      - **Gauge visuals** to show how the selected category's revenue, profit and number of orders are performing against a quarterly target
+      - An **area chart** showing relative revenue performance of each category over time
+      - **Table** showing the top 10 products by revenue in the selected context
+      - A **scatter graph** of quantity ordered against profit per item for products in the current context
+      - The final layout is given as follows:
+        ![image](https://github.com/maahiraislam/data-analytics-power-bi-report849/assets/148975841/ff02abf1-3c88-4afe-97d3-698c5f19b145)
 
+        
 
    
