@@ -77,6 +77,14 @@ An interactive map visualization has been developed, showcasing the performance 
          - **Data Slicer**
          - The final layout is given as follows:
            ![image](https://github.com/maahiraislam/data-analytics-power-bi-report849/assets/148975841/df444112-25ec-4061-8944-c993d61d5017)
-
+   4. Created a report page for the high-level executive summary. This gives an overview of the company peroformance as a whole. The following visuals were created:
+      - Card visuals showing Total Revenue, Total Profit and Total Orders
+      - Line graph of revenue against time
+      - Donut charts showing orders and revenue by country
+      - Bar chart of orders by category
+      - KPI's for Quarterly revenue, customers and profit
+      - Table of the top 10 products
+      - The final layout is given as follows:
+        
 
    
