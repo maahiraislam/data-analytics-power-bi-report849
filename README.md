@@ -94,7 +94,12 @@ An interactive map visualization has been developed, showcasing the performance 
       - A **scatter graph** of quantity ordered against profit per item for products in the current context
       - The final layout is given as follows:
         ![image](https://github.com/maahiraislam/data-analytics-power-bi-report849/assets/148975841/ff02abf1-3c88-4afe-97d3-698c5f19b145)
-
+   6. Created a **map visual** that allows you to check easily check on the stores under the regional managers control, allowing you to see which of the stores they are responsible for, the most profitable, as well as which are on track to reach their quarterly profit and revenue targets.
+   7. Created a stores drillthrough page that summarises each store's performance to check on the progress of a given store. The following visuals were created:
+      - A **table** showing the top 5 products, with columns: Description, Profit YTD, Total Orders, Total Revenue
+      - A **column chart** showing Total Orders by product category for the store
+      - **Gauges** for Profit YTD against a profit target of 20% year-on-year growth vs. the same period in the previous year. 
+      - A **card visual** showing the currently selected store
         
 
    
