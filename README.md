@@ -79,8 +79,8 @@ An interactive map visualization has been developed, showcasing the performance 
          - **Data Slicer**
          - The final layout is given as follows:
            
-           ![image](https://github.com/maahiraislam/data-analytics-power-bi-report849/assets/148975841/df444112-25ec-4061-8944-c993d61d5017)
-           
+           ![image](https://github.com/maahiraislam/data-analytics-power-bi-report849/assets/148975841/73e0350a-400f-4715-9130-a9ef411c19b3)
+
    4. Created a report page for the high-level executive summary. This gives an overview of the company peroformance as a whole. The following visuals were created:
       - Card visuals showing Total Revenue, Total Profit and Total Orders
       - Line graph of revenue against time
@@ -90,7 +90,7 @@ An interactive map visualization has been developed, showcasing the performance 
       - Table of the top 10 products
       - The final layout is given as follows:
         
-        ![image](https://github.com/maahiraislam/data-analytics-power-bi-report849/assets/148975841/c5365ea0-a8f5-4a0b-adf1-045ad8fa5c0e)
+        ![image](https://github.com/maahiraislam/data-analytics-power-bi-report849/assets/148975841/dce84ae7-6a0a-4d8a-a25e-16fab692ba7f)
         
    5. Created a product detail page that provides insights for all products and regions combined. Provides an in-depth look at which prodcuts within the inventory are performing well, with the option to filter by product and region. The following visuals were created:
       - **Card visuals** to show which filters are curently selected.
@@ -100,7 +100,7 @@ An interactive map visualization has been developed, showcasing the performance 
       - A **scatter graph** of quantity ordered against profit per item for products in the current context
       - The final layout is given as follows:
         
-        ![image](https://github.com/maahiraislam/data-analytics-power-bi-report849/assets/148975841/ff02abf1-3c88-4afe-97d3-698c5f19b145)
+        ![image](https://github.com/maahiraislam/data-analytics-power-bi-report849/assets/148975841/d4e37ac7-ce5b-4bed-884c-8301a11adcdb)
         
    6. Created a **map visual** that allows you to check easily check on the stores under the regional managers control, allowing you to see which of the stores they are responsible for, the most profitable, as well as which are on track to reach their quarterly profit and revenue targets.
    7. Created a stores drillthrough page that summarises each store's performance to check on the progress of a given store. The following visuals were created:
@@ -110,7 +110,7 @@ An interactive map visualization has been developed, showcasing the performance 
       - A **card visual** showing the currently selected store
       - The final layout is given as follows:
         
-        ![image](https://github.com/maahiraislam/data-analytics-power-bi-report849/assets/148975841/3d461321-7541-4560-bc57-e9aba9f92a2f)
+        ![image](https://github.com/maahiraislam/data-analytics-power-bi-report849/assets/148975841/309708fc-a33c-4d3c-a607-42f23de1e655)
 
    8. Cross filtered the visualsand set the following interactions:
       - **Executive Summary Page**:
